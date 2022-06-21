@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f10e5686ad23042af86c04b77c2fe0, type: 3}
+  m_Name: 21bbb
+  m_EditorClassIdentifier: 
+  _dialogueText: "Otro d\xEDa m\xE1s con un nudo en la garganta. Te trag\xE1s tus
+    palabras y con ellas tus sue\xF1os. Fing\xEDs alegrarte por Lola y pens\xE1s
+    en lo mucho que te gustar\xEDa ser otra. Alguien con menos miedo. Poder tomar
+    la mano de Lola, mirarse como quienes cruzan sin ver ambos lados antes de cruzar.
+    Subir al primer barco que abandon\xE9 este puerto lejos de Alejandro."
+  _hasChoices: 0
+  _background: {fileID: 21300000, guid: a77e48ee3898e8f40ab58bfe66ae1133, type: 3}
+  _dialogueSprite: {fileID: 21300000, guid: aaaa52171de97494c8c37ea735fe3860, type: 3}
+  _secondDialogueSprite: {fileID: 21300000, guid: 64b4fa3ead5fd3b468c6a699704f757b, type: 3}
+  parteEnLaHistoria: 1
+  _choicesText:
+  - '"Creo que de un tiempo a esta parte me di cuenta que siento algo por vos"'
+  - "\u201CNada, es una pavada. Te quer\xEDa preguntar \xBFd\xF3nde compraste ese
+    saquito? Te queda hermoso\u201D"
+  _choicesNextDialogue:
+  - {fileID: 0}
+  - {fileID: 0}
+  _nextDialogue: {fileID: 11400000, guid: 50bb98cbc05d43e4a9e789f5a429800a, type: 2}
+  _voiceOver: {fileID: 0}
+  _amountOfChoices: 2
+  _hasFadeIn: 0
+  _fadeInTime: 1
+  _hasFadeOut: 0
+  _fadeOutTime: 3

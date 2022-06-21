@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f10e5686ad23042af86c04b77c2fe0, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  _dialogueText: "Te empez\xE1s a cuestionar por qu\xE9 la invitaste, que para qu\xE9
+    cambiar las cosas. Tu mente se llena de pensamientos que te aturden. De repente
+    not\xE1s que te tocan el hombro a la par que t\xEDmidamente aparece una suave
+    voz \xA1Es Lola! Su dulce voz est\xE1 tan impregnada en vos que los motores de
+    los barcos ni se sienten. \xBFC\xF3mo deber\xEDas saludarla?"
+  _hasChoices: 1
+  _background: {fileID: 21300000, guid: a77e48ee3898e8f40ab58bfe66ae1133, type: 3}
+  _dialogueSprite: {fileID: 21300000, guid: 6e1a8eae0909950489ef9dad16121ad0, type: 3}
+  _secondDialogueSprite: {fileID: 21300000, guid: 64b4fa3ead5fd3b468c6a699704f757b, type: 3}
+  parteEnLaHistoria: 1
+  _choicesText:
+  - Que ganas de darle un beso...
+  - "Extra\xF1o sus abrazos."
+  - Mejor la distancia.
+  _choicesNextDialogue:
+  - {fileID: 11400000, guid: b468ef32d150b8244bdde7c1c75ccb8c, type: 2}
+  - {fileID: 11400000, guid: 61076f8dc05c38d49905b662cca542b2, type: 2}
+  - {fileID: 11400000, guid: 99e7ea0ba9240e948bf039cbf89b2097, type: 2}
+  _nextDialogue: {fileID: 11400000, guid: 50bb98cbc05d43e4a9e789f5a429800a, type: 2}
+  _voiceOver: {fileID: 0}
+  _amountOfChoices: 3
+  _hasFadeIn: 0
+  _fadeInTime: 1
+  _hasFadeOut: 0
+  _fadeOutTime: 3

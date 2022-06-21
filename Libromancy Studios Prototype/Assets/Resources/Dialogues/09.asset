@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f10e5686ad23042af86c04b77c2fe0, type: 3}
+  m_Name: 09
+  m_EditorClassIdentifier: 
+  _dialogueText: "Muriel abre la reja de la casa y amaga a usar tu brazo derecho
+    de sost\xE9n. Se r\xEDen. Suger\xEDs que ya es hora de que te hagan un juego
+    de llaves as\xED Muriel se queda tranquila."
+  _hasChoices: 0
+  _background: {fileID: 21300000, guid: 5e08edd20a6670643a40d7854aa2d479, type: 3}
+  _dialogueSprite: {fileID: 21300000, guid: 53ea82a646d016a4abb16f58650a9734, type: 3}
+  _secondDialogueSprite: {fileID: 21300000, guid: 53ea82a646d016a4abb16f58650a9734, type: 3}
+  parteEnLaHistoria: 0
+  _choicesText:
+  - Darle un beso en el  cachete.
+  - Darle un abrazo.
+  - "Apret\xF3n de manos."
+  _choicesNextDialogue:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _nextDialogue: {fileID: 11400000, guid: 112eaef2d692fc649a0507c1450a5451, type: 2}
+  _voiceOver: {fileID: 0}
+  _amountOfChoices: 3
+  _hasFadeIn: 0
+  _fadeInTime: 1
+  _hasFadeOut: 0
+  _fadeOutTime: 1

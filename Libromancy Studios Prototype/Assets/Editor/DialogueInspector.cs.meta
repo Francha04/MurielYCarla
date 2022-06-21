@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 02382695f6f599046a765a8ca34f4c19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptyBackground: {fileID: 21300000, guid: d4e4473bf0b78334aa8b937f5b4863c3, type: 3}
+  - emptyImage: {fileID: 21300000, guid: 53ea82a646d016a4abb16f58650a9734, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

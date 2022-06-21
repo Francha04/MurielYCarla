@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f10e5686ad23042af86c04b77c2fe0, type: 3}
+  m_Name: 03
+  m_EditorClassIdentifier: 
+  _dialogueText: Caminando por la calle, los chiflidos son moneda corriente. Llegando
+    a la parada del colectivo al encuentro de multitudes de trabajadores que esperan
+    llegar a sus destinos rutinarios.
+  _hasChoices: 0
+  _background: {fileID: 21300000, guid: d4e4473bf0b78334aa8b937f5b4863c3, type: 3}
+  _dialogueSprite: {fileID: 21300000, guid: 53ea82a646d016a4abb16f58650a9734, type: 3}
+  _secondDialogueSprite: {fileID: 21300000, guid: 53ea82a646d016a4abb16f58650a9734, type: 3}
+  parteEnLaHistoria: 0
+  _choicesText:
+  - "Rega\xF1arla por estar afuera"
+  - "Saludarla con cari\xF1o"
+  _choicesNextDialogue:
+  - {fileID: 0}
+  - {fileID: 0}
+  _nextDialogue: {fileID: 11400000, guid: 02dfd74d67deffa48a3336b7329ab2df, type: 2}
+  _voiceOver: {fileID: 0}
+  _amountOfChoices: 2
+  _hasFadeIn: 0
+  _fadeInTime: 2.047
+  _hasFadeOut: 0
+  _fadeOutTime: 3

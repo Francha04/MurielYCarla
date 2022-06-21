@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24f10e5686ad23042af86c04b77c2fe0, type: 3}
+  m_Name: "AFad\xBFasdf"
+  m_EditorClassIdentifier: 
+  _dialogueText: 
+  _hasChoices: 0
+  _background: {fileID: 0}
+  _dialogueSprite: {fileID: 0}
+  _secondDialogueSprite: {fileID: 0}
+  parteEnLaHistoria: 0
+  _choicesText: []
+  _choicesNextDialogue: []
+  _nextDialogue: {fileID: 0}
+  _voiceOver: {fileID: 0}
+  _amountOfChoices: 0
+  _hasFadeIn: 0
+  _fadeInTime: 0
+  _hasFadeOut: 0
+  _fadeOutTime: 0
